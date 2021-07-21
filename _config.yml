@@ -28,7 +28,7 @@ twitter_username: "@farmountain1979"
 github_username:  "farmountain"
 
 # Build settings
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
